@@ -1,3 +1,5 @@
+// When you check the box the email field appears
+
 document.getElementById("subscribe").addEventListener("click", function() {
     console.log("got the checkbox");
     if(this.checked){
